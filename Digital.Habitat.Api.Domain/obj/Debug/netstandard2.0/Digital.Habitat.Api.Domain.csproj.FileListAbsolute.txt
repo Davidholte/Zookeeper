@@ -1,0 +1,11 @@
+C:\Users\joerv\source\repos\Digital.Habitat.Api.Web\Digital.Habitat.Api.Domain\bin\Debug\netstandard2.0\Digital.Habitat.Api.Domain.deps.json
+C:\Users\joerv\source\repos\Digital.Habitat.Api.Web\Digital.Habitat.Api.Domain\bin\Debug\netstandard2.0\Digital.Habitat.Api.Domain.dll
+C:\Users\joerv\source\repos\Digital.Habitat.Api.Web\Digital.Habitat.Api.Domain\bin\Debug\netstandard2.0\Digital.Habitat.Api.Domain.pdb
+C:\Users\joerv\source\repos\Digital.Habitat.Api.Web\Digital.Habitat.Api.Domain\bin\Debug\netstandard2.0\Digital.Habitat.Api.Common.dll
+C:\Users\joerv\source\repos\Digital.Habitat.Api.Web\Digital.Habitat.Api.Domain\bin\Debug\netstandard2.0\Digital.Habitat.Api.Common.pdb
+C:\Users\joerv\source\repos\Digital.Habitat.Api.Web\Digital.Habitat.Api.Domain\obj\Debug\netstandard2.0\Digital.Habitat.Api.Domain.csprojAssemblyReference.cache
+C:\Users\joerv\source\repos\Digital.Habitat.Api.Web\Digital.Habitat.Api.Domain\obj\Debug\netstandard2.0\Digital.Habitat.Api.Domain.AssemblyInfoInputs.cache
+C:\Users\joerv\source\repos\Digital.Habitat.Api.Web\Digital.Habitat.Api.Domain\obj\Debug\netstandard2.0\Digital.Habitat.Api.Domain.AssemblyInfo.cs
+C:\Users\joerv\source\repos\Digital.Habitat.Api.Web\Digital.Habitat.Api.Domain\obj\Debug\netstandard2.0\Digital.Habitat.Api.Domain.csproj.CopyComplete
+C:\Users\joerv\source\repos\Digital.Habitat.Api.Web\Digital.Habitat.Api.Domain\obj\Debug\netstandard2.0\Digital.Habitat.Api.Domain.dll
+C:\Users\joerv\source\repos\Digital.Habitat.Api.Web\Digital.Habitat.Api.Domain\obj\Debug\netstandard2.0\Digital.Habitat.Api.Domain.pdb

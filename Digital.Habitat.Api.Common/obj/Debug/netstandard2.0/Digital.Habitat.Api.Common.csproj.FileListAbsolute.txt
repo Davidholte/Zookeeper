@@ -1,0 +1,8 @@
+C:\Users\joerv\source\repos\Digital.Habitat.Api.Web\Digital.Habitat.Api.Common\bin\Debug\netstandard2.0\Digital.Habitat.Api.Common.deps.json
+C:\Users\joerv\source\repos\Digital.Habitat.Api.Web\Digital.Habitat.Api.Common\bin\Debug\netstandard2.0\Digital.Habitat.Api.Common.dll
+C:\Users\joerv\source\repos\Digital.Habitat.Api.Web\Digital.Habitat.Api.Common\bin\Debug\netstandard2.0\Digital.Habitat.Api.Common.pdb
+C:\Users\joerv\source\repos\Digital.Habitat.Api.Web\Digital.Habitat.Api.Common\obj\Debug\netstandard2.0\Digital.Habitat.Api.Common.csprojAssemblyReference.cache
+C:\Users\joerv\source\repos\Digital.Habitat.Api.Web\Digital.Habitat.Api.Common\obj\Debug\netstandard2.0\Digital.Habitat.Api.Common.AssemblyInfoInputs.cache
+C:\Users\joerv\source\repos\Digital.Habitat.Api.Web\Digital.Habitat.Api.Common\obj\Debug\netstandard2.0\Digital.Habitat.Api.Common.AssemblyInfo.cs
+C:\Users\joerv\source\repos\Digital.Habitat.Api.Web\Digital.Habitat.Api.Common\obj\Debug\netstandard2.0\Digital.Habitat.Api.Common.dll
+C:\Users\joerv\source\repos\Digital.Habitat.Api.Web\Digital.Habitat.Api.Common\obj\Debug\netstandard2.0\Digital.Habitat.Api.Common.pdb
